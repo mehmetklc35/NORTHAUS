@@ -12,7 +12,7 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center px-6">
         {/* Logo */}
         <div className="flex items-center space-x-2">
-          <img src="/logo.png" alt="NortHaus Logo" className="h-8" />
+          <img src="/images.png" alt="NortHaus Logo" className="h-8" />
           <div className="text-2xl font-bold">NortHaus</div>
         </div>
 
